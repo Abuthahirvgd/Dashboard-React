@@ -1,0 +1,225 @@
+{
+    "data": {
+        "monthlySales": [
+            {
+                "month": "January",
+                "sales": 500
+            },
+            {
+                "month": "February",
+                "sales": 700
+            },
+            {
+                "month": "March",
+                "sales": 800
+            },
+            {
+                "month": "April",
+                "sales": 600
+            },
+            {
+                "month": "May",
+                "sales": 900
+            },
+            {
+                "month": "June",
+                "sales": 1000
+            },
+            {
+                "month": "July",
+                "sales": 1100
+            },
+            {
+                "month": "August",
+                "sales": 1200
+            },
+            {
+                "month": "September",
+                "sales": 1050
+            },
+            {
+                "month": "October",
+                "sales": 1150
+            },
+            {
+                "month": "November",
+                "sales": 1250
+            },
+            {
+                "month": "December",
+                "sales": 1300
+            }
+        ],
+        "productCategories": [
+            {
+                "category": "Electronics",
+                "revenue": 40000
+            },
+            {
+                "category": "Furniture",
+                "revenue": 25000
+            },
+            {
+                "category": "Clothing",
+                "revenue": 30000
+            },
+            {
+                "category": "Books",
+                "revenue": 15000
+            },
+            {
+                "category": "Toys",
+                "revenue": 10000
+            },
+            {
+                "category": "Food",
+                "revenue": 20000
+            },
+            {
+                "category": "Fitness",
+                "revenue": 22000
+            }
+        ],
+        "yearlyPerformance": [
+            {
+                "year": 2020,
+                "electronics": 50000,
+                "furniture": 30000,
+                "clothing": 40000
+            },
+            {
+                "year": 2021,
+                "electronics": 60000,
+                "furniture": 35000,
+                "clothing": 45000
+            },
+            {
+                "year": 2022,
+                "electronics": 70000,
+                "furniture": 40000,
+                "clothing": 50000
+            },
+            {
+                "year": 2023,
+                "electronics": 80000,
+                "furniture": 45000,
+                "clothing": 55000
+            }
+        ],
+        "dailyActiveUsers": [
+            {
+                "day": "Monday",
+                "users": 120
+            },
+            {
+                "day": "Tuesday",
+                "users": 150
+            },
+            {
+                "day": "Wednesday",
+                "users": 130
+            },
+            {
+                "day": "Thursday",
+                "users": 170
+            },
+            {
+                "day": "Friday",
+                "users": 200
+            },
+            {
+                "day": "Saturday",
+                "users": 250
+            },
+            {
+                "day": "Sunday",
+                "users": 300
+            }
+        ],
+        "employeeRatings": [
+            {
+                "rating": "Excellent",
+                "count": 40
+            },
+            {
+                "rating": "Good",
+                "count": 30
+            },
+            {
+                "rating": "Average",
+                "count": 20
+            },
+            {
+                "rating": "Poor",
+                "count": 10
+            }
+        ],
+        "salesTrends": [
+            {
+                "quarter": "Q1",
+                "onlineSales": 20000,
+                "offlineSales": 15000
+            },
+            {
+                "quarter": "Q2",
+                "onlineSales": 25000,
+                "offlineSales": 20000
+            },
+            {
+                "quarter": "Q3",
+                "onlineSales": 30000,
+                "offlineSales": 25000
+            },
+            {
+                "quarter": "Q4",
+                "onlineSales": 40000,
+                "offlineSales": 30000
+            }
+        ],
+        "regionalSales": [
+            {
+                "region": "North",
+                "sales": 50000
+            },
+            {
+                "region": "South",
+                "sales": 40000
+            },
+            {
+                "region": "East",
+                "sales": 45000
+            },
+            {
+                "region": "West",
+                "sales": 35000
+            }
+        ],
+        "userGrowth": [
+            {
+                "month": "January",
+                "newUsers": 500,
+                "activeUsers": 300
+            },
+            {
+                "month": "February",
+                "newUsers": 700,
+                "activeUsers": 500
+            },
+            {
+                "month": "March",
+                "newUsers": 800,
+                "activeUsers": 600
+            },
+            {
+                "month": "April",
+                "newUsers": 600,
+                "activeUsers": 400
+            },
+            {
+                "month": "May",
+                "newUsers": 900,
+                "activeUsers": 700
+            }
+        ]
+    }
+}
